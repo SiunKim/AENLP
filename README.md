@@ -1,4 +1,6 @@
 # AENLP
+**IMPORTANT UPDATE (April 10, 2025)**: The model files and implementation code for Python 3.10.10 have been updated and are now available at https://drive.google.com/file/d/1hPBBP2BTxZEduEzShDVOjk6bJEyyL28p/view?usp=sharing. For any inquiries, please contact: shiuhn95@snu.ac.kr
+
 This repository contains the implementation of NER inference demo from "Extraction of Comprehensive Drug Safety Information from Adverse Drug Event Narratives in Spontaneous Reporting System"
 
 ![figure1](https://user-images.githubusercontent.com/53844800/196883837-459ee966-e683-43f5-adc6-63d132999695.png)
